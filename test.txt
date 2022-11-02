@@ -1,3 +1,6 @@
 This is a file in my repository that I can edit
 
 I have made more edits
+
+I can now see the issues
+Advice was provided during the session
